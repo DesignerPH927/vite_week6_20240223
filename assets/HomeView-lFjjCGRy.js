@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./index-IZRPLD-R.js";const c={},a={class:"home"},n=o("h3",{class:"position-absolute top-50 start-50 translate-middle fs-1 text-white p-4 bg-success rounded-3"}," 歡迎光臨 ",-1),r=[n];function _(d,i){return s(),t("div",a,r)}const f=e(c,[["render",_]]);export{f as default};
